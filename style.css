@@ -1,0 +1,15 @@
+*{color:blue}
+.header{
+    background-color:#909020;
+display:flex;
+justify-content: space-between;
+}
+
+.grid{
+    background-color: darkviolet;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+p,h2{text-align:center}
+body{background-color: #CA00BA;}
